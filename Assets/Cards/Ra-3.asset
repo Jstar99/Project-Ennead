@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8a025321e90a5c408d33cb3818444e7, type: 3}
+  m_Name: Ra-3
+  m_EditorClassIdentifier: 
+  id: 2
+  cost: 50
+  power: 100
+  cardHp: 0
+  cardName: Spirit Bomb
+  artwork: {fileID: 8140152146594325722, guid: efed68ae38c19de4d862e0f906bb586d, type: 3}

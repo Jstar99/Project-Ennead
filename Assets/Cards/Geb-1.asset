@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8a025321e90a5c408d33cb3818444e7, type: 3}
+  m_Name: Geb-1
+  m_EditorClassIdentifier: 
+  id: 7
+  cost: 0
+  power: 0
+  cardHp: 0
+  cardName: ClayMound
+  artwork: {fileID: 3838610433428354720, guid: 19f8aacbca9c13d4d872e7f7558341c9, type: 3}
